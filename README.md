@@ -9,7 +9,7 @@
 
 **Получение apikey:**
  - зарегистрируйтесь на http://buruki.ru/affiliate
- - свяжитесь с нами, мы сгенерируем токен и он будет доступен в вашем профиле - http://buruki.ru/affiliate/affiliate_profile/
+ - свяжитесь с нами (http://buruki.ru/affiliate/threads/), мы сгенерируем токен и он будет доступен в вашем профиле - http://buruki.ru/affiliate/affiliate_profile/
 
 На данный момент все токены "вечные", но могут быть отозваны администрацией.
 
